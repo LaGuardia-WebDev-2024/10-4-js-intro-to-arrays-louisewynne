@@ -18,7 +18,7 @@ setup = function() {
   text(fruits[1], 150, 150);
   fill(colors[2])
   text(fruits[2], 150, 200);
-  text("",150,250)
+  text("🍈🍓🔴",150,250)
 
   fill(colors[3])
   text("My top " + fruits.length + " favorite fruits",100, 40 );
